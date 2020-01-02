@@ -1,7 +1,7 @@
 # Overview
 Scripts in this directory are used to process data in GLODAPv2. For now the following analyses are included:
 1. Infer age of water using the 1d transit time distribution method with Delta=Gamma for CFC-11
-2. Calculate the depth of isopycnals given the bodel data
+2. Calculate the depth of isopycnals given the bottle data
 
 
 
